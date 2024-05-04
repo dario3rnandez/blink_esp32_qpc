@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "qpc.h": "c",
+        "qs_dummy.h": "c",
+        "qs_port.h": "c",
+        "qsafe.h": "c",
+        "qp_port.h": "c",
+        "qp.h": "c",
+        "stdbool.h": "c",
+        "qp_pkg.h": "c",
+        "qs_pkg.h": "c"
+    },
+    "idf.flashType": "UART",
+    "idf.port": "/dev/ttyUSB0",
+    "idf.adapterTargetName": "esp32"
+}
